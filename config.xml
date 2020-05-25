@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.korzina74.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. korzina74.ru</name>
+    <name>korzina74</name>
 
     <description>
         Доставка продуктов
@@ -40,17 +40,17 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/a34ab25a9f6b286b3488b91aab64a153.png" density="ldpi" />
-        <icon src="res/android/icon/3a68b1ccfa94b880305223c6c270844e.png" density="mdpi" />
-        <icon src="res/android/icon/859566234b37a5f160980882eba17415.png" density="hdpi" />
-        <icon src="res/android/icon/b36009645d3d0dbe3066848ebba2be4a.png" density="xhdpi" />
-        <icon src="res/android/icon/b75095dd86484f36d179d1f299f25ce5.png" density="xxhdpi" />
-        <icon src="res/android/icon/870349f9e1cebfd1ae6f632be7b181dd.png" density="xxxhdpi" />
+        <icon src="res/android/icon/de619efdaf57834d2f875485c073ed42.png" density="ldpi" />
+        <icon src="res/android/icon/b39ff1828936ea1dbcf6426d49c65871.png" density="mdpi" />
+        <icon src="res/android/icon/20b55bbe2e98316c42b4bbbc775321e1.png" density="hdpi" />
+        <icon src="res/android/icon/918d528377f1dca3732fa404b98094c7.png" density="xhdpi" />
+        <icon src="res/android/icon/d1e279171e175d9e2775eaa988dd7394.png" density="xxhdpi" />
+        <icon src="res/android/icon/56cc0535bdbab85b850b49a8450b0f57.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/88033bef861bc4c5e3b78c28af57b461.png" density="port-hdpi"/>
-        <splash src="res/android/screen/d86309fbdc802d2a75b316caa2fab579.png" density="port-ldpi"/>
-        <splash src="res/android/screen/d78b36f3e08f8580ecaadec3e99ec9d9.png" density="port-mdpi"/>
-        <splash src="res/android/screen/a0c01fd82fde72c8ad72259d40b6ceae.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/2507bb44036f9d014d9d8d4cc90e5470.png" density="port-hdpi"/>
+        <splash src="res/android/screen/ef1ce824377eb3feca99510a84503fad.png" density="port-ldpi"/>
+        <splash src="res/android/screen/99070256d30e7fea3d722c7099128539.png" density="port-mdpi"/>
+        <splash src="res/android/screen/87637bfcf4bc999e2f860060f07ab01a.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
