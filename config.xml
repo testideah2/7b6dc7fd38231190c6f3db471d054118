@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.korzina74.app"
         versionCode = "10"
-        version     = "1.4.0">
+        version     = "1.5.0">
 
-    <name>korzina74</name>
+    <name>Korzina74</name>
 
     <description>
         Доставка продуктов
@@ -47,10 +47,10 @@
         <icon src="res/android/icon/2af7cd21aa769f4f2ed7fe04d7da23bc.png" density="xxhdpi" />
         <icon src="res/android/icon/5c7c4c9f9815e9e38c27172eee62b077.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/2507bb44036f9d014d9d8d4cc90e5470.png" density="port-hdpi"/>
-        <splash src="res/android/screen/ef1ce824377eb3feca99510a84503fad.png" density="port-ldpi"/>
-        <splash src="res/android/screen/99070256d30e7fea3d722c7099128539.png" density="port-mdpi"/>
-        <splash src="res/android/screen/87637bfcf4bc999e2f860060f07ab01a.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/25bf55fee45aec4e309674d16f92c85d.png" density="port-hdpi"/>
+        <splash src="res/android/screen/4aa0648623229402125c286921e28e9c.png" density="port-ldpi"/>
+        <splash src="res/android/screen/3445a0135f090984be0070fcf7434aff.png" density="port-mdpi"/>
+        <splash src="res/android/screen/4cc210c48f22b8b69615db795039a009.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
